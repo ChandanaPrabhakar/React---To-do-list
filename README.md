@@ -49,7 +49,7 @@ Simply open the `index.html` file in a web browser to start using the To-Do List
 
 1. **Clone the Repository**:
    ```bash
-   `git clone https://github.com/ChandanaPrabhakar/React---To-do-list.git`
+   git clone https://github.com/ChandanaPrabhakar/React---To-do-list.git
 
 ## License
 
