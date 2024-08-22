@@ -1,7 +1,3 @@
-Here is a draft of a README file for the project you've provided:
-
----
-
 # To-Do List Application
 
 ## Project Description
