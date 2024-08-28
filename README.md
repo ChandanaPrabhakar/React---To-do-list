@@ -1,3 +1,6 @@
+
+<img width="666" alt="Screenshot 2024-08-28 at 17 07 16" src="https://github.com/user-attachments/assets/4e4ebd5e-b641-46c6-98da-46ca100f7511">
+
 # To-Do List Application
 
 ## Project Description
